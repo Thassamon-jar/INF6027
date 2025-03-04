@@ -21,7 +21,6 @@ RQ3: Which user group is the primary target that uses online services the most a
 
 3. Policymakers should pay attention to single individuals to maximise adoption rates, followed by married individuals and males. For a more specific targeted approach, single males should be prioritised, as they had gender and marital status affect online service adoption, and both of them had the highest engagement levels. These insights highlight the importance of tailoring marketing strategies and outreach programs to these demographics to enhance digital engagement.
 
-4. Odds ratio analysis highlights demographic differences in engagement, informing digital inclusion policies.
 
 
 
