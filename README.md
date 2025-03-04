@@ -15,15 +15,13 @@ RQ3: Which user group is the primary target that uses online services the most a
 
 ## Key Findings
 
-1. The age group has no significant effect on online service access.
+1. Gender and marital status play a crucial role in determining online service usage, while age differences are not a major factor.
 
-2. Males are significantly more likely to access online services than females.
+2. The model shows strong predictive ability, with 89% accuracy.
 
-3. Married and single individuals have higher odds of online service use than the reference group.
+3. Policymakers should pay attention to single individuals to maximise adoption rates, followed by married individuals and males. For a more specific targeted approach, single males should be prioritised, as they had gender and marital status affect online service adoption, and both of them had the highest engagement levels. These insights highlight the importance of tailoring marketing strategies and outreach programs to these demographics to enhance digital engagement.
 
-4. The model shows strong predictive ability, with 89% accuracy.
-
-5. Odds ratio analysis highlights demographic differences in engagement, informing digital inclusion policies.
+4. Odds ratio analysis highlights demographic differences in engagement, informing digital inclusion policies.
 
 
 
